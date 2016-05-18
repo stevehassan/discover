@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type='text/xsl' href='oai2.xsl' ?>
+
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+
+<responseDate>2016-05-06T19:59:36Z</responseDate>
+
+<request verb="GetRecord" identifier="1" metadataPrefix="oai_dc">http://oai.ukdataservice.ac.uk/oai/provider</request>
+
+
+
+<GetRecord>
+
+  <record>
+
+  
+
+    <header>
+
+      <identifier>1</identifier>
+
+      <datestamp>2016-05-06T12:33:37Z</datestamp>
+
+      <setSpec>DataCollections</setSpec> 	
+
+    </header>
+
+	
+
+    <metadata>
+
+	<oai_dc:dc xmlns:ddi="ddi:codebook:2_5"
+           xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+   <dc:identifier>1</dc:identifier>
+   <dc:title>Family, Work and Leisure in the London Region, 1970 : Main Study</dc:title>
+   <dc:creator>Willmott, P., Institute of Community Studies</dc:creator>
+   <dc:creator>Young, M., Institute of Community Studies</dc:creator>
+   <dc:subject>1970</dc:subject>
+   <dc:subject>AGE DIFFERENCES</dc:subject>
+   <dc:subject>ASPIRATION</dc:subject>
+   <dc:subject>ATTITUDES</dc:subject>
+   <dc:subject>AUTHORITY</dc:subject>
+   <dc:subject>BOOK USE</dc:subject>
+   <dc:subject>BOREDOM</dc:subject>
+   <dc:subject>CAREER DEVELOPMENT</dc:subject>
+   <dc:subject>COMMUTING</dc:subject>
+   <dc:subject>CULTURAL PARTICIPATION</dc:subject>
+   <dc:subject>DOMESTIC ANIMALS</dc:subject>
+   <dc:subject>EDUCATIONAL BACKGROUND</dc:subject>
+   <dc:subject>EMIGRATION</dc:subject>
+   <dc:subject>EMPLOYMENT</dc:subject>
+   <dc:subject>ENVIRONMENTAL PLANNING</dc:subject>
+   <dc:subject>ETHNIC GROUPS</dc:subject>
+   <dc:subject>EVERYDAY LIFE</dc:subject>
+   <dc:subject>FAMILIES</dc:subject>
+   <dc:subject>FATIGUE (PHYSIOLOGY)</dc:subject>
+   <dc:subject>FRIENDS</dc:subject>
+   <dc:subject>FUTURE</dc:subject>
+   <dc:subject>GENDER</dc:subject>
+   <dc:subject>GREATER LONDON</dc:subject>
+   <dc:subject>HOLIDAYS</dc:subject>
+   <dc:subject>HOURS OF WORK</dc:subject>
+   <dc:subject>HOUSEHOLDS</dc:subject>
+   <dc:subject>HOUSEWIVES</dc:subject>
+   <dc:subject>HOUSING AGE</dc:subject>
+   <dc:subject>HOUSING TENURE</dc:subject>
+   <dc:subject>HOUSING</dc:subject>
+   <dc:subject>INCOME</dc:subject>
+   <dc:subject>JOB SATISFACTION</dc:subject>
+   <dc:subject>LEISURE TIME ACTIVITIES</dc:subject>
+   <dc:subject>LEISURE TIME</dc:subject>
+   <dc:subject>MARITAL STATUS</dc:subject>
+   <dc:subject>MARRIAGE</dc:subject>
+   <dc:subject>MARRIED WOMEN WORKERS</dc:subject>
+   <dc:subject>MEMBERSHIP</dc:subject>
+   <dc:subject>MOTOR VEHICLES</dc:subject>
+   <dc:subject>NEWSPAPER READERSHIP</dc:subject>
+   <dc:subject>OCCUPATIONS</dc:subject>
+   <dc:subject>ORGANIZATIONS</dc:subject>
+   <dc:subject>OVERTIME</dc:subject>
+   <dc:subject>PLACE OF BIRTH</dc:subject>
+   <dc:subject>POLITICAL PARTICIPATION</dc:subject>
+   <dc:subject>PRIVATE GARDENS</dc:subject>
+   <dc:subject>RECREATIONAL EDUCATION</dc:subject>
+   <dc:subject>RELIGIOUS ATTENDANCE</dc:subject>
+   <dc:subject>RETIREMENT</dc:subject>
+   <dc:subject>SATISFACTION</dc:subject>
+   <dc:subject>SECOND HOMES</dc:subject>
+   <dc:subject>SHIFT WORK</dc:subject>
+   <dc:subject>SOCIAL CLASS</dc:subject>
+   <dc:subject>SOCIAL DROP-OUTS</dc:subject>
+   <dc:subject>SPORT</dc:subject>
+   <dc:subject>STRESS (PSYCHOLOGICAL)</dc:subject>
+   <dc:subject>SUBSIDIARY EMPLOYMENT</dc:subject>
+   <dc:subject>TRAFFIC</dc:subject>
+   <dc:subject>WORKING MOTHERS</dc:subject>
+   <dc:subject>Community and urban studies - Society and culture</dc:subject>
+   <dc:subject>Family life and marriage - Social stratification and groupings</dc:subject>
+   <dc:subject>Leisure, tourism and sport - Society and culture</dc:subject>
+   <dc:description>&lt;p&gt;Abstract copyright UK Data Service and data collection copyright owner.&lt;/p&gt;The purpose of this survey was to examine the relationship between work, home and leisure in order to explain changes in family patterns; to provide demographic, social/behavioural and economic data for the analysis of family life.&lt;br&gt;
+</dc:description>
+   <dc:description>&lt;B&gt;Main Topics&lt;/B&gt;:&lt;br&gt; Attitudinal/Behavioural Questions&lt;br&gt;
+Present and preferred occupation: type, hours, holidays, career structure, autonomy at work, whether physically or mentally tiring or boring. Journey to work.&lt;br&gt;
+Present and preferred residence: size, district, tenure, type, garden.&lt;br&gt;
+Leisure activities: home based, sports (active or spectator), other (e.g. going out for meals, museum visits, membership of clubs/organisations).&lt;br&gt;
+Preferred activity (where and with whom preferred activity done).&lt;br&gt;
+Work/Home interface: boredom, satisfaction, interference. Leisure/Home interface: boredom, satisfaction, interference. Married women: respondent's pattern of work (age and reasons), ideal number of children, pet ownership, opinion on London's traffic problem and local government spending, subjective social class, voting intention, newspapers read.&lt;br&gt;
+Background Variables&lt;br&gt;
+Age, sex, marital status, children (this information also gathered for friends and relatives with whom respondents spent their leisure time), place of birth, age when full-time education finished, age when first married, income, word score. A copy of the main questionnaire appears in Young and Willmott (1973) only.</dc:description>
+   <dc:date>1973</dc:date>
+   <dc:format>Various</dc:format>
+   <dc:language>English</dc:language>
+   <dc:coverage>(Time Period) From 1970</dc:coverage>
+   <dc:coverage>Geographical coverage: London</dc:coverage>
+   <dc:coverage>Geographical coverage: England</dc:coverage>
+   <dc:rights>Copyright Institute of Community Studies</dc:rights>
+</oai_dc:dc>
+	
+
+    </metadata>
+
+  </record>
+
+</GetRecord>
+
+
+
+</OAI-PMH>
+
+
+
+
+
+
+
+
+
+ 
+
+
+

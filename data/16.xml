@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type='text/xsl' href='oai2.xsl' ?>
+
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+
+<responseDate>2016-05-06T19:59:37Z</responseDate>
+
+<request verb="GetRecord" identifier="16" metadataPrefix="oai_dc">http://oai.ukdataservice.ac.uk/oai/provider</request>
+
+
+
+<GetRecord>
+
+  <record>
+
+  
+
+    <header>
+
+      <identifier>16</identifier>
+
+      <datestamp>2016-05-06T12:33:56Z</datestamp>
+
+      <setSpec>DataCollections</setSpec> 	
+
+    </header>
+
+	
+
+    <metadata>
+
+	<oai_dc:dc xmlns:ddi="ddi:codebook:2_5"
+           xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+   <dc:identifier>16</dc:identifier>
+   <dc:title>Study of Career Perceptions of Teachers in Large Secondary Schools, 1974</dc:title>
+   <dc:creator>Lyons, G., University of Bristol. School of Education. Research Unit</dc:creator>
+   <dc:subject>1974</dc:subject>
+   <dc:subject>AGE</dc:subject>
+   <dc:subject>ATTITUDES</dc:subject>
+   <dc:subject>CAREER DEVELOPMENT</dc:subject>
+   <dc:subject>EDUCATIONAL ADMINISTRATION</dc:subject>
+   <dc:subject>ENGLAND AND WALES</dc:subject>
+   <dc:subject>EXPERIENCE</dc:subject>
+   <dc:subject>EXTRACURRICULAR ACTIVITIES</dc:subject>
+   <dc:subject>FURTHER TRAINING</dc:subject>
+   <dc:subject>GENDER</dc:subject>
+   <dc:subject>INFORMATION</dc:subject>
+   <dc:subject>JOB SATISFACTION</dc:subject>
+   <dc:subject>MARITAL STATUS</dc:subject>
+   <dc:subject>OCCUPATIONAL CHOICE</dc:subject>
+   <dc:subject>PROMOTION (JOB)</dc:subject>
+   <dc:subject>SECONDARY EDUCATION</dc:subject>
+   <dc:subject>SECONDARY SCHOOLS</dc:subject>
+   <dc:subject>TEACHER QUALIFICATIONS</dc:subject>
+   <dc:subject>TEACHING</dc:subject>
+   <dc:subject>Teaching profession - Education</dc:subject>
+   <dc:description>&lt;p&gt;Abstract copyright UK Data Service and data collection copyright owner.&lt;/p&gt;To collect information from secondary schools as to how teachers perceived their careers, what their motivations were, their sources of satisfaction and ultimate goals. The timetable of planned activities was designed to gain information about total work load of Head and senior staff and secretaries and to discover the pattern of administrative activities associated with specific parts of the school day/week/term.</dc:description>
+   <dc:description>&lt;B&gt;Main Topics&lt;/B&gt;:&lt;br&gt; Attitudinal/Behavioural Questions&lt;br&gt;
+First choice of career, job (dis)satisfaction, other activities connected with teaching, in-training courses, perception of promotion prospects, future plans.&lt;br&gt;
+A 'communications schedule interview' examined proportional contacts with other staff (seniors, peers, juniors), patterns of communication and information flow (passing on/receiving) between seniors, peers and juniors. Respondents were asked to assess the efficiency of these networks.&lt;br&gt;
+A 'timetable of planned activities' was completed by:&lt;br&gt;
+i) Head and senior staff&lt;br&gt;
+ii) Secretaries&lt;br&gt;
+Previous career: length; total teaching years; introductory training; age range taught to teach.&lt;br&gt;
+Background Variables&lt;br&gt;
+Age, sex, school, qualifications.</dc:description>
+   <dc:date>1 January 1974</dc:date>
+   <dc:format>Various</dc:format>
+   <dc:language>English</dc:language>
+   <dc:coverage>(Data Collection) From 1974</dc:coverage>
+   <dc:coverage>Geographical coverage: England and Wales</dc:coverage>
+   <dc:rights>No information recorded</dc:rights>
+</oai_dc:dc>
+	
+
+    </metadata>
+
+  </record>
+
+</GetRecord>
+
+
+
+</OAI-PMH>
+
+
+
+
+
+
+
+
+
+ 
+
+
+

@@ -1,0 +1,15 @@
+<div class="panel-group" id="accordion" ng-controller="studyController">
+	<div class="panel panel-default" ng-repeat="tag in item.dctags" ng-show="{{tag.bind}}">
+		<div class="panel-heading">
+			<h4 class="panel-title">
+				<a data-toggle="collapse" data-parent="#accordion" data-target="#collapse{{$index}}">{{tag.title}}</a>
+				<a ng-show="$index==0" ng-click="closeItem(item)"><span class="glyphicon glyphicon-remove"></span></a>
+			</h4>
+		</div>
+		<div id="collapse{{$index}}" class="panel-collapse collapse">
+			<div class="panel-body" bind-html-compile="{{tag.bind}}">
+				{{tag.value}}
+			</div>
+		</div>
+	</div>
+</div>

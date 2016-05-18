@@ -1,0 +1,46 @@
+<!-- Fixed navbar -->
+<nav class="navbar navbar-default navbar-fixed-top" ng-controller="navigationController">
+	<div class="container-fluid">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="#home">UK Data Service<span><img id="logo" src="/images/ukds-logo.png" alt="UK Data Sevice" border="0"></img></span></a>
+		</div>
+		<div fb-parse id="navbar" class="navbar-collapse collapse">
+			<div class="pull-right">
+				<ul class="nav navbar-nav navbar-right">
+					<li><a href="#site">Site search</a></li>
+					<li class="divider"></li>
+					<li><a href="#faq">FAQ</a></li>
+					<li class="divider"></li>
+					<li><a href="#help">Help</a></li>
+					<li class="divider"></li>
+					<li><a href="#contact">Contact</a></li>
+					<li class="divider"></li>
+					<li><a href="#new">New users</a></li>
+					<li ng-show="status" class="divider"></li>
+					<li ng-show="status" ng-class="{ active: isActive('/login')}"><a href="#login">{{user.name}}</a></li>
+					<li ng-show="status"><a id="profile" href="#login"><img src="{{user.picture.data.url}}"/></a></li>
+					<li class="divider divider-double"></li>
+				</ul>
+			</div>
+			<div>
+				<ul class="nav navbar-nav">
+					<li ng-class="{ active: isActive('/about')}"><a href="#about">About</a></li>
+					<li class="divider"></li>
+					<li ng-class="{ active: isActive('/search')}"><a href="#search">Get data</a></li>
+					<li class="divider"></li>
+					<li><a href="#manage">Manage data</a></li>
+					<li class="divider"></li>
+					<li><a href="#deposit">Deposit data</a></li>
+					<li class="divider"></li>
+					<li><a href="#contact">News and events</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</nav>

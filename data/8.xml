@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type='text/xsl' href='oai2.xsl' ?>
+
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+
+<responseDate>2016-05-06T19:59:37Z</responseDate>
+
+<request verb="GetRecord" identifier="8" metadataPrefix="oai_dc">http://oai.ukdataservice.ac.uk/oai/provider</request>
+
+
+
+<GetRecord>
+
+  <record>
+
+  
+
+    <header>
+
+      <identifier>8</identifier>
+
+      <datestamp>2016-05-06T12:43:22Z</datestamp>
+
+      <setSpec>DataCollections</setSpec> 	
+
+    </header>
+
+	
+
+    <metadata>
+
+	<oai_dc:dc xmlns:ddi="ddi:codebook:2_5"
+           xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+   <dc:identifier>8</dc:identifier>
+   <dc:title>Streaming Longitudinal Study</dc:title>
+   <dc:creator>National Foundation for Educational Research</dc:creator>
+   <dc:subject>1964</dc:subject>
+   <dc:subject>ABILITY GROUPING</dc:subject>
+   <dc:subject>AGE</dc:subject>
+   <dc:subject>ANXIETY</dc:subject>
+   <dc:subject>EDUCATIONAL ASSESSMENT</dc:subject>
+   <dc:subject>EDUCATIONAL GROUPING</dc:subject>
+   <dc:subject>ENGLAND</dc:subject>
+   <dc:subject>OCCUPATIONS</dc:subject>
+   <dc:subject>PARENTS</dc:subject>
+   <dc:subject>PRE-PRIMARY EDUCATION</dc:subject>
+   <dc:subject>PRE-PRIMARY SCHOOLS</dc:subject>
+   <dc:subject>SCHOOLCHILDREN</dc:subject>
+   <dc:subject>SPECIAL NEEDS EDUCATION</dc:subject>
+   <dc:subject>Primary, pre-primary and secondary - Education</dc:subject>
+   <dc:description>&lt;p&gt;Abstract copyright UK Data Service and data collection copyright owner.&lt;/p&gt;The purpose of this study was to examine the effects of streaming and non-streaming on the personality, and social and intellectual development of junior school pupils. The data are held under nine separate study numbers; one for each of the eight surveys and one for the merged file.  The study covers a four-year period. In the first year, 1964 (Surveys SN:008 and SN:009), a cross-sectional study of 84 schools, 42 matched pairs of streamed and non-streamed schools, was made. In the succeeding three years, this number was reduced as schools dropped out due to changes in organisation or to reductions in numbers of pupils or staff. In the end, only schools that had completed the full research programme were considered in the longitudinal study, that is, data from 72 schools or 36 matched pairs. The longitudinal study was concerned, therefore, with those children who were in their first year in 1964 and who remained in the school throughout the whole of the junior course - 5521 pupils in all. The data are of two main types, those concerned with pupils and those concerned with teachers. SN:261 is a merged file of datasets for pupils (SN:007, SN:008, SN:010, SN:012).</dc:description>
+   <dc:description>&lt;B&gt;Main Topics&lt;/B&gt;:&lt;br&gt; Teachers (SN:006, SN:009, SN:011, SN:013)&lt;br&gt;
+To assess the further variables relating to teachers in the schools, three questionnaires were employed. In one, Questionnaire S1, 14 types of lessons were listed together with six possible frequencies ranging from 'everyday' to 'less than once a term or never'. Teachers were asked to indicate their frequency of use for each type of lesson. For the purpose of scoring, the lesson types were divided into two categories: 'traditional' and 'progressive'. In addition, two further questions were included, one dealing with grouping within the class and the other with seating arrangements. In the second questionnaire, S3, attitudes of teachers towards seven aspects of teaching in junior schools were examined. A list of 40 statements was prepared and given to teachers who were asked to indicate their degree of agreement or disagreement with each statement. The responses were grouped in seven attitude areas: permissive/non-permissive, attitude to physical punishment, to 11+ selection, to noise in the classroom, to A-streams, and to the less able child. In addition, in a personal data questionnaire, teachers gave information about themselves, their sex, age, qualifications and number of years teaching experience. A parental attitudes questionnaire was sent to parents of pupils in 28 schools in 1966 and 1967.&lt;br&gt;
+Pupils (SN:007, SN:008, SN:010, SN:012, SN:261).&lt;br&gt;
+To measure achievement, pupils were given a battery of tests at the end of each of the four junior school years. The tests were specially devised to be suitable for all ages from seven to ten-plus. Two parallel versions of each test were administered, one version to half the matched pairs, the second to the other half. Tests administered followed this schedule:&lt;br&gt;
+1964 (SN:008)&lt;br&gt;
+Reading&lt;br&gt;
+English&lt;br&gt;
+Problem Arithmetic&lt;br&gt;
+Mechanical Arithmetic&lt;br&gt;
+Number Concept&lt;br&gt;
+1965 (SN:010)&lt;br&gt;
+Reading&lt;br&gt;
+English&lt;br&gt;
+Problem Arithmetic&lt;br&gt;
+Mechanical Arithmetic&lt;br&gt;
+Verbal Reasoning&lt;br&gt;
+1966 (SN:012)&lt;br&gt;
+Reading&lt;br&gt;
+English&lt;br&gt;
+Problem Arithmetic&lt;br&gt;
+Mechanical Arithmetic&lt;br&gt;
+Number Concept&lt;br&gt;
+Verbal/Non-Verbal&lt;br&gt;
+Reasoning&lt;br&gt;
+Free Writing SA1 &amp; SB2&lt;br&gt;
+1967 (SN:007)&lt;br&gt;
+Reading&lt;br&gt;
+English&lt;br&gt;
+Problem Arithmetic&lt;br&gt;
+Mechanical Arithmetic&lt;br&gt;
+Number Concept&lt;br&gt;
+Verbal/Non-verbal&lt;br&gt;
+Reasoning&lt;br&gt;
+Free writing SA1 &amp; SB2&lt;br&gt;
+To measure the effects of school organisation on personality, attitudes and social adjustment, a number of non-cognitive variables were considered, following the schedule below:&lt;br&gt;
+1964&lt;br&gt;
+Sociometric data&lt;br&gt;
+School activities&lt;br&gt;
+&lt;br&gt;
+1966&lt;br&gt;
+Sociometric data&lt;br&gt;
+Interests&lt;br&gt;
+Aspirations&lt;br&gt;
+Pupils' Attitudes &amp; Parents' Attitudes in 28 Schools&lt;br&gt;
+Sociometric data&lt;br&gt;
+Interests&lt;br&gt;
+School Activities&lt;br&gt;
+Pupils' Attitudes in 28 Schools&lt;br&gt;
+The sociometric questionnaire provided information on the 'popularity' of a pupil and identified those who were 'neglected', In 1964, teachers indicated the first and second choice of friends for each pupil; in 1966 and 1967, the pupil himself completed the questionnaire, including two new criteria, 'who would you like to play with?' and 'who would you like to work with?' In 1966 and 1967, an interests questionnaire was administered, dividing interests into two categories, 'creative' and 'logical/analytical'. Also included were a teacher-rating of behaviour on a four-point scale on five isolated behaviour traits; a teacher rating of school achievement, including attitude to school work, class position in reading and class position in arithmetic; a general ability rating in all years on a five-point scale; and, in 1964 and 1967, a teacher assessment of individual pupil's participation in school activities. A questionnaire, comprising 79 statements, was administered to pupils in 28 schools in 1966 and 1967. The resulting scale measured pupils' attitudes in ten areas, including academic self-image, anxiety rating, social adjustment, relationship with teacher, importance of doing well, attitude to school, interest in school work, conforming versus non-conforming behaviour, attitude to class, and 'other image of class'. The chief background independent variables were pupil's age, sex, social class, school attendance and absenteeism (in years 2, 3 and 4), position in class and physical disabilities.</dc:description>
+   <dc:date>1976</dc:date>
+   <dc:format>Various</dc:format>
+   <dc:language>English</dc:language>
+   <dc:coverage>(Data Collection) From 1964</dc:coverage>
+   <dc:coverage>Geographical coverage: England</dc:coverage>
+</oai_dc:dc>
+	
+
+    </metadata>
+
+  </record>
+
+</GetRecord>
+
+
+
+</OAI-PMH>
+
+
+
+
+
+
+
+
+
+ 
+
+
+

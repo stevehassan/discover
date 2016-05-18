@@ -1,0 +1,47 @@
+<div ng-cloak>
+    <div fb-parse class="login">
+		<h2 id="login" ng-show="!studyId || !status">Login Details</h2>
+		<div ng-show="status && studyId" class="message">
+			<div class="panel panel-default">
+				<div class="panel-heading">
+					<h4 class="panel-title">
+						<div class="row">
+							<div class="col-xs-6">
+								<a href="data/data.zip" title="Download data for study {{studyId}}">Continue with download</a>
+							</div>
+							<div class="col-xs-6 text-right">
+								<a href="#/study/{{studyId}}">Return to study info</a>								
+							</div>
+						</div>			
+					</h4>
+				</div>
+			</div>		
+		</div>
+		<hr>
+		<div class="fb-login-button" data-max-rows="1" data-size="medium" data-show-faces="false" data-auto-logout-link="true"></div>
+        <p/>
+		<div ng-show="status" class="container message">
+            <div>
+				You are <strong>Logged in</strong> as <span title="{{user.id}}" class="friends">{{user.name}}</span>
+			</div>
+			<div>
+				<img src="https://graph.facebook.com/{{user.id}}/picture?width=200&height=200"/>
+			</div>
+		</div>
+        <div ng-show="!status" class="message">
+            You are <strong>not</strong> logged in.
+        </div>
+		<div ng-show="status" class="panel-group">
+			<h3>Your list of taggable friends:</h3>
+			<button class="btn btn-primary" id="friends-btn" data-loading-text="Loading...">Get friends</button>
+			<button class="btn btn-success" id="friends-toggle" data-toggle="collapse" data-target="#friends-panel">Show</button>
+			<div id="friends-panel" class="container panel panel-default">
+				<div class="row" ng-repeat="rows in chunkedFriends">
+					<div id="friends-col" class="col-xs-{{colSpan}} animate-repeat" ng-repeat="friend in rows">
+						<img src="{{friend.picture.data.url}}"/> {{friend.name}}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

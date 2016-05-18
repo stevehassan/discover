@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type='text/xsl' href='oai2.xsl' ?>
+
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+
+<responseDate>2016-05-06T19:59:37Z</responseDate>
+
+<request verb="GetRecord" identifier="14" metadataPrefix="oai_dc">http://oai.ukdataservice.ac.uk/oai/provider</request>
+
+
+
+<GetRecord>
+
+  <record>
+
+  
+
+    <header>
+
+      <identifier>14</identifier>
+
+      <datestamp>2016-05-06T12:33:49Z</datestamp>
+
+      <setSpec>DataCollections</setSpec> 	
+
+    </header>
+
+	
+
+    <metadata>
+
+	<oai_dc:dc xmlns:ddi="ddi:codebook:2_5"
+           xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+   <dc:identifier>14</dc:identifier>
+   <dc:title>Probationary Teachers, 1968-1969</dc:title>
+   <dc:creator>University of Bristol. School of Education. Research Unit</dc:creator>
+   <dc:subject>1970</dc:subject>
+   <dc:subject>AGE</dc:subject>
+   <dc:subject>ATTITUDES</dc:subject>
+   <dc:subject>CAREER DEVELOPMENT</dc:subject>
+   <dc:subject>EDUCATIONAL FACILITIES</dc:subject>
+   <dc:subject>EDUCATIONAL GUIDANCE</dc:subject>
+   <dc:subject>EDUCATIONAL PERIODICALS</dc:subject>
+   <dc:subject>ENGLAND</dc:subject>
+   <dc:subject>EVALUATION</dc:subject>
+   <dc:subject>FURTHER TRAINING</dc:subject>
+   <dc:subject>GENDER</dc:subject>
+   <dc:subject>JOB SATISFACTION</dc:subject>
+   <dc:subject>LEISURE TIME ACTIVITIES</dc:subject>
+   <dc:subject>LOCAL EDUCATION AUTHORITIES</dc:subject>
+   <dc:subject>OCCUPATIONAL STATUS</dc:subject>
+   <dc:subject>PROBATION PERIOD</dc:subject>
+   <dc:subject>SCHOOLS</dc:subject>
+   <dc:subject>SCHOOLTEACHERS</dc:subject>
+   <dc:subject>TEACHER ASSOCIATIONS</dc:subject>
+   <dc:subject>TEACHER QUALIFICATIONS</dc:subject>
+   <dc:subject>TEACHER TRAINING SCHOOLS</dc:subject>
+   <dc:subject>TEACHER TRAINING</dc:subject>
+   <dc:subject>TEACHING METHODS</dc:subject>
+   <dc:subject>WORKING CONDITIONS</dc:subject>
+   <dc:subject>Teaching profession - Education</dc:subject>
+   <dc:description>&lt;p&gt;Abstract copyright UK Data Service and data collection copyright owner.&lt;/p&gt;The purpose of this study was to collect information about the conditions, opportunities, problems and needs of teachers at the beginning of their career and to assist in the development of services to them.&lt;br&gt;
+&lt;i&gt;National Survey of Teachers in Their First Year of Service, 1966-1967&lt;/i&gt; (SN:66031,66032,66033,67032,67033)&lt;br&gt;
+This group of surveys serves both as a demographic study of probationary teachers and as a longitudinal study in which characteristics of the teachers at the beginning and at the end of the year were related to each other and to characteristics of the school and of the employing authority. It covers seven main areas: probationary background and training; their distribution; appointment and placement; in-service guidance; probationers in the classroom; in the school community; outside school; and career intentions.&lt;br&gt;
+Arising from findings of this group of surveys, a further research and development project was undertaken by the University of Bristol to investigate the needs, problems, and advantages associated with the mounting of in-service courses for probationers. The data from this project are held as SN:14 &lt;i&gt;Probationary Teachers, 1968-1969&lt;/i&gt; and SN:15 &lt;i&gt;Probationary Teachers, 1969-1970&lt;/i&gt;.&lt;br&gt;
+The phasing of the enquiry followed the timetable:&lt;br&gt;
+Spring 1966: Survey of Directors of Education in the 162 LEA's in England and Wales (SN:66031)&lt;br&gt;
+June 1966: Survey of Head Teachers (SN:66032)&lt;br&gt;
+Sept 1966: First survey of probationers (SN:66033)&lt;br&gt;
+March 1967: Oral interviews with sub-sample of probationers (SN:67032)&lt;br&gt;
+May 1967: Follow-up questionnaire to probationers who responded to first questionnaire (SN:67033)&lt;br&gt;
+&lt;br&gt;
+SN:14 includes two questionnaires (A1 and B1) distributed to probationers in one rural and three urban areas in July 1969. These probationers had completed their probationary year and had experienced only traditional forms of in-service guidance; they formed a control group for the project.&lt;br&gt;
+SN:15 includes nine questionnaires, distributed between September 1969 and July 1970 in conjunction with a series of project-organized induction courses and discussion meetings. The questionnaires were administered according to the following timetable:&lt;br&gt;
+Sept 1969: Questionnaire A2 and B2 to all probationers&lt;br&gt;
+Sept-Oct 1969: Questionnaire C1 to those attending induction conference&lt;br&gt;
+Oct-Dec 1969: Questionnaire C2 to those attending discussion meetings&lt;br&gt;
+Jan-June 1970: Questionnaire C3 to those at optional topics courses&lt;br&gt;
+July 1970: Questionnaire C4 to those at overview conference&lt;br&gt;
+July 1970: Questionnaire C5 to all probationers&lt;br&gt;
+July 1970: Questionnaire A3 to all probationers&lt;br&gt;
+(Questionnaire A1, A2 and A3 were essentially identical, B1, B2 and B3 completely identical.)&lt;br&gt;
+The questionnaires therefore measured both response to various course programmes and discussion meetings, and the overall effect of such courses on the professional judgements, opinions and actions of probationary teachers.</dc:description>
+   <dc:description>&lt;B&gt;Main Topics&lt;/B&gt;:&lt;br&gt; Attitudinal/Behavioural Questions&lt;br&gt;
+Questionnaire A1, distributed to teachers just finishing their probationary year, elicited information on the following:&lt;br&gt;
+1. Placement, Guidance and Assessment: whether teaching age-range and subjects in which they were trained; whether they would recommend the LEA to a friend; whether any of a given list of conditions had limited their participation in leisure, social or cultural activities; their reasons for seeking work in their present area; their knowledge of, and use made of, various services to teachers within the LEA or area; knowledge of assessment procedures and processes; ways in which respondent feels that the LEA Inspector or Adviser, the Head or their colleagues could be of use to the probationer; their opinion on the amount of advice offered by colleagues, Head, Inspector, Head of Department or College lecturers; whether advice was actually sought from any of these and any further observations they have on probationary year guidance and assessment.&lt;br&gt;
+2. Classroom Experience: respondents asked to assess the amount of help received from various aspects of training course; to categorize the approach to teaching taught in College, found generally in present school, preferred by self and the approach actually used during each of the three terms of probationary year as predominantly formal, informal or a mixture of both; to outline any difficulties experienced in professional work during the year with details of any action taken to deal with them; to indicate ways in which respondent has changed or developed approach to teaching with reasons for any changes; and to indicate the degree of satisfaction he felt with teaching performance during the year.&lt;br&gt;
+3. Continuing Education and Job Expectations: respondents were asked which aspects of education they consider important for a teacher to continue studying after beginning teaching; the names of professional periodicals, papers and books found particularly helpful; job expectations in five years time and professional study experience and plans for the future. A comparison is made between teaching as a profession and jobs of respondent's friends of same age and qualifications, and between respondent's own teaching situation and that of teachers in other schools.&lt;br&gt;
+4. Professional Organizations: whether the respondent is aware of professional organizations within the LEA or area; which professional or educational issue is of particular interest to the respondent and which type of organization should raise it; how likely it is that respondent will raise it at such an organization; whether a member of a union, association or age-range/subject association and has taken part in any activities or expressed own opinion through such an organization.&lt;br&gt;
+Questionnaire B1, a 'Survey of Opinions about Education', has three parts:&lt;br&gt;
+Part I: a series of debatable opinions about education to which the probationer was asked to indicate degree of agreement or disagreement, using a five-point scale ranging from strongly agree to strongly disagree.&lt;br&gt;
+Part II: a list of suggested changes in education about which the respondent was asked to give opinions as to their desirability, using a five-point scale ranging from very desirable to very undesirable.&lt;br&gt;
+Part III: 10 sections, each concerning some aspect of education, with four arguments relating to each aspect given. The probationer was asked to express own opinion on each argument, using a five-point scale ranging from very good to not good. The results from this questionnaire were scored according to three attitude scales, Naturalism, Radicalism and Tendermindedness.&lt;br&gt;
+Background Variables&lt;br&gt;
+Age, sex, type of school, educational qualifications, age-range for which trained and training institutions or university attended.</dc:description>
+   <dc:date>1973</dc:date>
+   <dc:format>Various</dc:format>
+   <dc:language>English</dc:language>
+   <dc:coverage>(Data Collection) From July 1969</dc:coverage>
+   <dc:coverage>Geographical coverage: England and Wales</dc:coverage>
+</oai_dc:dc>
+	
+
+    </metadata>
+
+  </record>
+
+</GetRecord>
+
+
+
+</OAI-PMH>
+
+
+
+
+
+
+
+
+
+ 
+
+
+

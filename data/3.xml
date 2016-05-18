@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type='text/xsl' href='oai2.xsl' ?>
+
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+
+<responseDate>2016-05-06T19:59:36Z</responseDate>
+
+<request verb="GetRecord" identifier="3" metadataPrefix="oai_dc">http://oai.ukdataservice.ac.uk/oai/provider</request>
+
+
+
+<GetRecord>
+
+  <record>
+
+  
+
+    <header>
+
+      <identifier>3</identifier>
+
+      <datestamp>2016-05-06T12:35:18Z</datestamp>
+
+      <setSpec>DataCollections</setSpec> 	
+
+    </header>
+
+	
+
+    <metadata>
+
+	<oai_dc:dc xmlns:ddi="ddi:codebook:2_5"
+           xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+   <dc:identifier>3</dc:identifier>
+   <dc:title>Membership of Tribunals, 1969-1972</dc:title>
+   <dc:creator>Hawker, G.N., University of Birmingham. Institute of Judicial Administration</dc:creator>
+   <dc:creator>Newton, D., University of Birmingham. Institute of Judicial Administration</dc:creator>
+   <dc:creator>Sumorok, E., University of Birmingham. Institute of Judicial Administration</dc:creator>
+   <dc:creator>Cavenagh, W.E., University of Birmingham. Institute of Judicial Administration</dc:creator>
+   <dc:subject>1970</dc:subject>
+   <dc:subject>1971</dc:subject>
+   <dc:subject>1972</dc:subject>
+   <dc:subject>ADMINISTRATIVE TRIBUNALS</dc:subject>
+   <dc:subject>AGE</dc:subject>
+   <dc:subject>ASSOCIATIONS</dc:subject>
+   <dc:subject>EDUCATIONAL BACKGROUND</dc:subject>
+   <dc:subject>ENGLAND AND WALES</dc:subject>
+   <dc:subject>EXPERIENCE</dc:subject>
+   <dc:subject>FEES</dc:subject>
+   <dc:subject>GENDER</dc:subject>
+   <dc:subject>INCOME</dc:subject>
+   <dc:subject>JOB SATISFACTION</dc:subject>
+   <dc:subject>MEMBERSHIP</dc:subject>
+   <dc:subject>OCCUPATIONS</dc:subject>
+   <dc:subject>PERSONALITY</dc:subject>
+   <dc:subject>POLITICAL ALLEGIANCE</dc:subject>
+   <dc:subject>POLITICS</dc:subject>
+   <dc:subject>PROFESSIONAL ASSOCIATIONS</dc:subject>
+   <dc:subject>QUALIFICATIONS</dc:subject>
+   <dc:subject>RECRUITMENT</dc:subject>
+   <dc:subject>RENTS</dc:subject>
+   <dc:subject>TRADE UNION MEMBERSHIP</dc:subject>
+   <dc:subject>VOLUNTARY WORK</dc:subject>
+   <dc:subject>Elites and leadership - Social stratification and groupings</dc:subject>
+   <dc:description>&lt;p&gt;Abstract copyright UK Data Service and data collection copyright owner.&lt;/p&gt;The aim of this study was to identify the social characteristics of members of selected administrative tribunals, to compare the members with other citizens involved in public service and to explain the criteria and practical means by which members are selected, or select themselves.</dc:description>
+   <dc:description>&lt;B&gt;Main Topics&lt;/B&gt;:&lt;br&gt;Attitudinal/Behavioural Questions&lt;br&gt;
+Members were asked to assess their own knowledge of and familiarity with the work of the panel before their appointment, and to indicate whether their membership was self-prompted or whether they were recruited. If the latter, members asked for own estimation of reasons why selected. The effects of panel membership financially, and in terms of time were ascertained, as was the importance of remuneration to the respondent. Particular satisfactions and dissatisfactions of participation are listed, as are respondent-perceived qualifications, experience and personal characteristics necessary in good lay and professional members. A final section asks for comments on the methods of recruiting and selecting members, any changes needed in the kinds of people appointed and, generally, on the work of the panel.&lt;br&gt;
+Background Variables&lt;br&gt;
+Age, sex, home town or nearest town, highest formal education or professional qualification, employment status (employed, self-employed, housewife, retired), last paid occupation, husband's occupation in case of married women, judicial or semi-judicial experience with details and dates, membership of professional, occupational or trade union organisations with details and dates, voluntary work done between 1961 and 1971 (with details and dates), membership of societies and associations with particular political connections, party voted for in last election, date of first appointment to Rent Assessment Panel and finally a detailed statement of income and salary from all sources.&lt;br&gt;
+</dc:description>
+   <dc:date>1974</dc:date>
+   <dc:format>Various</dc:format>
+   <dc:language>English</dc:language>
+   <dc:coverage>(Data Collection) From October 1969 to June 1971&lt;br&gt; September 1971 to October 1972</dc:coverage>
+   <dc:coverage>Geographical coverage: England and Wales</dc:coverage>
+   <dc:rights>No information recorded</dc:rights>
+</oai_dc:dc>
+	
+
+    </metadata>
+
+  </record>
+
+</GetRecord>
+
+
+
+</OAI-PMH>
+
+
+
+
+
+
+
+
+
+ 
+
+
+

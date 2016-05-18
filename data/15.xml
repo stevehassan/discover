@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type='text/xsl' href='oai2.xsl' ?>
+
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+
+<responseDate>2016-05-06T19:59:37Z</responseDate>
+
+<request verb="GetRecord" identifier="15" metadataPrefix="oai_dc">http://oai.ukdataservice.ac.uk/oai/provider</request>
+
+
+
+<GetRecord>
+
+  <record>
+
+  
+
+    <header>
+
+      <identifier>15</identifier>
+
+      <datestamp>2016-05-06T12:33:52Z</datestamp>
+
+      <setSpec>DataCollections</setSpec> 	
+
+    </header>
+
+	
+
+    <metadata>
+
+	<oai_dc:dc xmlns:ddi="ddi:codebook:2_5"
+           xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+   <dc:identifier>15</dc:identifier>
+   <dc:title>Probationary Teachers, 1969-1970</dc:title>
+   <dc:creator>University of Bristol. School of Education. Research Unit</dc:creator>
+   <dc:subject>1970</dc:subject>
+   <dc:subject>ATTITUDES</dc:subject>
+   <dc:subject>CAREER DEVELOPMENT</dc:subject>
+   <dc:subject>CONFERENCES</dc:subject>
+   <dc:subject>EDUCATIONAL FACILITIES</dc:subject>
+   <dc:subject>EDUCATIONAL GUIDANCE</dc:subject>
+   <dc:subject>EDUCATIONAL PUBLICATIONS</dc:subject>
+   <dc:subject>ENGLAND</dc:subject>
+   <dc:subject>EVALUATION</dc:subject>
+   <dc:subject>FURTHER TRAINING</dc:subject>
+   <dc:subject>JOB SATISFACTION</dc:subject>
+   <dc:subject>LEISURE TIME ACTIVITIES</dc:subject>
+   <dc:subject>LOCAL EDUCATION AUTHORITIES</dc:subject>
+   <dc:subject>MARRIED WOMEN TEACHERS</dc:subject>
+   <dc:subject>OCCUPATIONAL STATUS</dc:subject>
+   <dc:subject>PARTICIPATION</dc:subject>
+   <dc:subject>PROBATION PERIOD</dc:subject>
+   <dc:subject>SCHOOLS</dc:subject>
+   <dc:subject>SCHOOLTEACHERS</dc:subject>
+   <dc:subject>TEACHER ASSOCIATIONS</dc:subject>
+   <dc:subject>TEACHER QUALIFICATIONS</dc:subject>
+   <dc:subject>TEACHER SALARIES</dc:subject>
+   <dc:subject>TEACHER TRAINING SCHOOLS</dc:subject>
+   <dc:subject>TEACHER TRAINING</dc:subject>
+   <dc:subject>TEACHING METHODS</dc:subject>
+   <dc:subject>WORKING CONDITIONS</dc:subject>
+   <dc:subject>Teaching profession - Education</dc:subject>
+   <dc:description>&lt;p&gt;Abstract copyright UK Data Service and data collection copyright owner.&lt;/p&gt;The purpose of this study was to collect information about the conditions, opportunities, problems and needs of teachers at the beginning of their career and to assist in the development of services to them.&lt;br&gt;
+&lt;i&gt;National Survey of Teachers in Their First Year of Service, 1966-1967&lt;/i&gt; (SN:66031,66032,66033,67032,67033)&lt;br&gt;
+This group of surveys serves both as a demographic study of probationary teachers and as a longitudinal study in which characteristics of the teachers at the beginning and at the end of the year were related to each other and to characteristics of the school and of the employing authority. It covers seven main areas: probationary background and training; their distribution; appointment and placement; in-service guidance; probationers in the classroom; in the school community; outside school; and career intentions.&lt;br&gt;
+Arising from findings of this group of surveys, a further research and development project was undertaken by the University of Bristol to investigate the needs, problems, and advantages associated with the mounting of in-service courses for probationers. The data from this project are held as SN:14 &lt;i&gt;Probationary Teachers, 1968-1969&lt;/i&gt; and SN:15 &lt;i&gt;Probationary Teachers, 1969-1970&lt;/i&gt;.&lt;br&gt;
+The phasing of the enquiry followed the timetable:&lt;br&gt;
+Spring 1966: Survey of Directors of Education in the 162 LEA's in England and Wales (SN:66031)&lt;br&gt;
+June 1966: Survey of Head Teachers (SN:66032)&lt;br&gt;
+Sept 1966: First survey of probationers (SN:66033)&lt;br&gt;
+March 1967: Oral interviews with sub-sample of probationers (SN:67032)&lt;br&gt;
+May 1967: Follow-up questionnaire to probationers who responded to first questionnaire (SN:67033)&lt;br&gt;
+&lt;br&gt;
+SN:14 includes two questionnaires (A1 and B1) distributed to probationers in one rural and three urban areas in July 1969. These probationers had completed their probationary year and had experienced only traditional forms of in-service guidance; they formed a control group for the project.&lt;br&gt;
+SN:15 includes nine questionnaires, distributed between September 1969 and July 1970 in conjunction with a series of project-organized induction courses and discussion meetings. The questionnaires were administered according to the following timetable:&lt;br&gt;
+Sept 1969: Questionnaire A2 and B2 to all probationers&lt;br&gt;
+Sept-Oct 1969: Questionnaire C1 to those attending induction conference&lt;br&gt;
+Oct-Dec 1969: Questionnaire C2 to those attending discussion meetings&lt;br&gt;
+Jan-June 1970: Questionnaire C3 to those at optional topics courses&lt;br&gt;
+July 1970: Questionnaire C4 to those at overview conference&lt;br&gt;
+July 1970: Questionnaire C5 to all probationers&lt;br&gt;
+July 1970: Questionnaire A3 to all probationers&lt;br&gt;
+(Questionnaire A1, A2 and A3 were essentially identical, B1, B2 and B3 completely identical.)&lt;br&gt;
+The questionnaires therefore measured both response to various course programmes and discussion meetings, and the overall effect of such courses on the professional judgements, opinions and actions of probationary teachers.</dc:description>
+   <dc:description>&lt;B&gt;Main Topics&lt;/B&gt;:&lt;br&gt; Variables&lt;br&gt;
+This survey, which includes nine questionnaires, was carried out in conjunction with a series of project-organized induction courses. The general outline of the programme around which it was built is as follows:&lt;br&gt;
+1. Sept 1969: Questionnaire A2 (a slightly altered version of A1 - see SN:14) distributed to all probationers at the beginning of their probationary year, was designed to investigate their attitudes, opinions and judgements with respect to: placement, assessment and guidance; classroom and teaching experience, attitudes to various approaches to teaching; continuing education; job expectations and professional standards; professional organizations.&lt;br&gt;
+Questionnaire B2, a 'Survey of Opinions about Education', is the same as B1 (see SN:014).&lt;br&gt;
+2. Sept - Oct 1969: Questionnaire C1, distributed to all participants at a one-day conference of induction into the profession, the LEA and the area, asked for comments on the programme generally, on the topics covered and on the methods used. Suggestions for future programmes were also elicited.&lt;br&gt;
+3. Oct - Dec 1969: Questionnaire C2, distributed to all participants at a series of general discussion meetings designed to 'help the probationary teachers identify their significant problems, the underlying causes of and solutions to these problems', covered participant's opinion on topics covered, topics preferred for future meetings, attitude toward helpfulness of methods and activities in course, suggestions for aims of future courses, opinions on relevance and frequency of meetings.&lt;br&gt;
+4. Jan - June 1970: Questionnaire C3, distributed to all participants at a series of optional courses on specific topics designed to help the probationer find practical solutions to a variety of professional problems and including both theoretical and practical topics, covered participant's opinions on topics covered and topics preferred, the helpfulness of various methods and activities in the courses, contact with other participants, helpfulness and relevance of such meetings in general, length and frequency of meetings and suggestions for future aims.&lt;br&gt;
+5. July 1970: Questionnaire C4, distributed to participants at an overview conference designed to allow probationers, tutors and course organizers to review their past year's experience in a systematic fashion and to review prospects and wider issues within the profession, elicited comments on topics, organization, method, activities, participants, helpfulness and relevance of aims of the overview conference.&lt;br&gt;
+6. July 1970: Questionnaire C5, distributed to all participants at the conference and posted to all probationary teachers, concerned attendance at all the courses and reasons for non-attendance, opinions on materials and documents provided during course work, attitudes to overall aims of courses, time scheduling during meetings, types of educationalists chosen as tutors for courses, attitude towards relevance of induction courses in general, scheduling and pattern of courses and location of future meetings.&lt;br&gt;
+7. July 1970: Questionnaire A3, distributed by post to all probationers, is the same as A1 (see 014) and similar to A2. Questionnaire B3 is the same as B1 and B2, and was also distributed to all teachers.</dc:description>
+   <dc:date>1973</dc:date>
+   <dc:format>Various</dc:format>
+   <dc:language>English</dc:language>
+   <dc:coverage>(Data Collection) From September 1969</dc:coverage>
+   <dc:coverage>(Data Collection) To July 1970</dc:coverage>
+   <dc:coverage>Geographical coverage: England and Wales</dc:coverage>
+   <dc:rights>No information recorded</dc:rights>
+</oai_dc:dc>
+	
+
+    </metadata>
+
+  </record>
+
+</GetRecord>
+
+
+
+</OAI-PMH>
+
+
+
+
+
+
+
+
+
+ 
+
+
+

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type='text/xsl' href='oai2.xsl' ?>
+
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+
+<responseDate>2016-05-06T19:59:36Z</responseDate>
+
+<request verb="GetRecord" identifier="4" metadataPrefix="oai_dc">http://oai.ukdataservice.ac.uk/oai/provider</request>
+
+
+
+<GetRecord>
+
+  <record>
+
+  
+
+    <header>
+
+      <identifier>4</identifier>
+
+      <datestamp>2016-05-06T12:36:47Z</datestamp>
+
+      <setSpec>DataCollections</setSpec> 	
+
+    </header>
+
+	
+
+    <metadata>
+
+	<oai_dc:dc xmlns:ddi="ddi:codebook:2_5"
+           xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+   <dc:identifier>4</dc:identifier>
+   <dc:title>World Ethnographic Atlas, 1967-1971</dc:title>
+   <dc:creator>Goody, J., University of Cambridge. Department of Social Anthropology</dc:creator>
+   <dc:subject>1967</dc:subject>
+   <dc:subject>ANIMAL HUSBANDRY</dc:subject>
+   <dc:subject>ATTITUDES</dc:subject>
+   <dc:subject>CASTE</dc:subject>
+   <dc:subject>CIRCUMCISION</dc:subject>
+   <dc:subject>COMMUNITIES</dc:subject>
+   <dc:subject>COUSINS</dc:subject>
+   <dc:subject>CROPS</dc:subject>
+   <dc:subject>ETHNOGRAPHY</dc:subject>
+   <dc:subject>FAMILIES</dc:subject>
+   <dc:subject>FAMILY MEMBERS</dc:subject>
+   <dc:subject>FARMING SYSTEMS</dc:subject>
+   <dc:subject>HOUSING</dc:subject>
+   <dc:subject>HUMAN SETTLEMENT</dc:subject>
+   <dc:subject>INDUSTRIES</dc:subject>
+   <dc:subject>INHERITANCE LAW</dc:subject>
+   <dc:subject>LANGUAGES</dc:subject>
+   <dc:subject>LEGAL SYSTEMS</dc:subject>
+   <dc:subject>MARRIAGE CUSTOMS</dc:subject>
+   <dc:subject>MARRIAGE</dc:subject>
+   <dc:subject>MULTI-NATION</dc:subject>
+   <dc:subject>POLITICAL SYSTEMS</dc:subject>
+   <dc:subject>PREMARITAL SEX</dc:subject>
+   <dc:subject>PUBLICATIONS</dc:subject>
+   <dc:subject>RELIGION</dc:subject>
+   <dc:subject>RITES</dc:subject>
+   <dc:subject>SLAVERY</dc:subject>
+   <dc:subject>SOCIAL STRATIFICATION</dc:subject>
+   <dc:subject>SPORT</dc:subject>
+   <dc:subject>SUBSISTENCE AGRICULTURE</dc:subject>
+   <dc:subject>TABOOS</dc:subject>
+   <dc:subject>Reference sources - Reference and instructional resources</dc:subject>
+   <dc:description>&lt;p&gt;Abstract copyright UK Data Service and data collection copyright owner.&lt;/p&gt;To provide a register of information on 863 cultures or cultural types.</dc:description>
+   <dc:description>&lt;B&gt;Main Topics&lt;/B&gt;:&lt;br&gt; Variables&lt;br&gt;
+Regional identification, estimated relative dependence on each of 5 major types of subsistence economy, prevailing mode of obtaining a wife, prevailing form of domestic or familial organisation, profile of marital residence, community organisation (the prevalence of local endogamy, agamy and exogamy), kinship groupings, type and intensity of agriculture, settlement patterns, mean size of local communities, jurisdictional hierarchy, highgods, types of games, post-partum sex taboos, male genital mutilations, segregation of adolescent boys, type of animal husbandry, types of technological or economic activity (e.g. weaving, pottery, boat building), linguistic affiliation, class stratification, caste stratification, slavery, succession to the office of local headman, inheritance of property, norms of premarital sex behaviour, ground plan of dwellings, floor level, wall material, shape of roof, roofing material, secondary and alternative house type.&lt;br&gt;
+Three variables have been added from other sources: political integration and political succession (Murdoch's World Ethnographic Sample, 1957) and environment (rated by Frank Moore, 1963 from &lt;i&gt;Phillips Comparative World Atlases&lt;/i&gt;).&lt;br&gt;
+Information contained in the April 1967 issue of &lt;i&gt;Ethnology&lt;/i&gt; was originally put into machine-readable form by the Department of Anthropology, University of Pittsburgh. (See codebook for more detailed information). Corrections and additions appearing in subsequent editions of &lt;i&gt;Ethnology&lt;/i&gt; (up to January 1971) were made to the original version in August 1974 by Professor J.R. Goody, Department of Social Anthropology, University of Cambridge.</dc:description>
+   <dc:date>1 January 1974</dc:date>
+   <dc:type>Numeric data</dc:type>
+   <dc:format>Various</dc:format>
+   <dc:source>Published source material</dc:source>
+   <dc:source>Murdoch, G.P., 'World Ethnographic Atlas', in &lt;i&gt;Ethnology&lt;/i&gt;, April 1967, Vol. VI, No.2, pp.154-169&lt;br&gt;
+&lt;i&gt;Ethnology&lt;/i&gt;, October 1967, Vol. VI, No.4, pp. 481-484&lt;br&gt;
+&lt;i&gt;Ethnology&lt;/i&gt;, April 1968, Vol. VII, No.2, pp.218-221, 327-328&lt;br&gt;
+&lt;i&gt;Ethnology&lt;/i&gt;, January 1971, Vol. X, No.1, pp.122-124&lt;br&gt;
+Murdoch, G.P., &lt;i&gt;World Ethnographic Sample&lt;/i&gt; (1957)&lt;br&gt;
+&lt;i&gt;Phillips Comparative World Atlases&lt;/i&gt;</dc:source>
+   <dc:language>English</dc:language>
+   <dc:coverage>(Data Collection) From April 1967</dc:coverage>
+   <dc:coverage>(Data Collection) To January 1971</dc:coverage>
+   <dc:coverage>Geographical coverage: Multi-nation</dc:coverage>
+   <dc:rights>No information recorded</dc:rights>
+</oai_dc:dc>
+	
+
+    </metadata>
+
+  </record>
+
+</GetRecord>
+
+
+
+</OAI-PMH>
+
+
+
+
+
+
+
+
+
+ 
+
+
+

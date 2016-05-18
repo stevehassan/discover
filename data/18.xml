@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type='text/xsl' href='oai2.xsl' ?>
+
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+
+<responseDate>2016-05-06T19:59:37Z</responseDate>
+
+<request verb="GetRecord" identifier="18" metadataPrefix="oai_dc">http://oai.ukdataservice.ac.uk/oai/provider</request>
+
+
+
+<GetRecord>
+
+  <record>
+
+  
+
+    <header>
+
+      <identifier>18</identifier>
+
+      <datestamp>2016-05-06T12:34:18Z</datestamp>
+
+      <setSpec>DataCollections</setSpec> 	
+
+    </header>
+
+	
+
+    <metadata>
+
+	<oai_dc:dc xmlns:ddi="ddi:codebook:2_5"
+           xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+   <dc:identifier>18</dc:identifier>
+   <dc:title>Political Communication and the Young Voter, 1971: Follow-Up Survey of Youth Sample</dc:title>
+   <dc:creator>Blumler, J.G., University of Leeds. Centre for Television Research</dc:creator>
+   <dc:creator>McQuail, D., University of Southampton. Faculty of Social Science</dc:creator>
+   <dc:creator>Nossiter, T.J., London School of Economics and Political Science. Department of Political Science</dc:creator>
+   <dc:subject>1970</dc:subject>
+   <dc:subject>AGE</dc:subject>
+   <dc:subject>ATTITUDES</dc:subject>
+   <dc:subject>BALANCE OF PAYMENTS</dc:subject>
+   <dc:subject>BRITISH POLITICAL PARTIES</dc:subject>
+   <dc:subject>BROADCASTING</dc:subject>
+   <dc:subject>CHILDREN</dc:subject>
+   <dc:subject>COMMUNICATIONS</dc:subject>
+   <dc:subject>CONSERVATIVE PARTY (GREAT BRITAIN)</dc:subject>
+   <dc:subject>CRIME</dc:subject>
+   <dc:subject>DEATH PENALTY</dc:subject>
+   <dc:subject>DEMONSTRATIONS (PROTESTS)</dc:subject>
+   <dc:subject>DRUG ABUSE</dc:subject>
+   <dc:subject>ECONOMIC CONDITIONS</dc:subject>
+   <dc:subject>EDUCATION</dc:subject>
+   <dc:subject>EDUCATIONAL COURSES</dc:subject>
+   <dc:subject>ELDERLY</dc:subject>
+   <dc:subject>ELECTION BROADCASTING</dc:subject>
+   <dc:subject>ELECTION CAMPAIGNS</dc:subject>
+   <dc:subject>ELECTIONS</dc:subject>
+   <dc:subject>ELECTORAL ISSUES</dc:subject>
+   <dc:subject>ELECTORS</dc:subject>
+   <dc:subject>ENVIRONMENTAL CONSERVATION</dc:subject>
+   <dc:subject>ENVIRONMENTAL DEGRADATION</dc:subject>
+   <dc:subject>EQUAL PAY</dc:subject>
+   <dc:subject>EUROPEAN ECONOMIC COMMUNITY</dc:subject>
+   <dc:subject>EUROPEAN UNION</dc:subject>
+   <dc:subject>FAMILY INFLUENCE</dc:subject>
+   <dc:subject>FATHERS</dc:subject>
+   <dc:subject>HEADS OF GOVERNMENT</dc:subject>
+   <dc:subject>HOSPITAL SERVICES</dc:subject>
+   <dc:subject>HOUSEHOLDS</dc:subject>
+   <dc:subject>HOUSING POLICY</dc:subject>
+   <dc:subject>HUMAN RIGHTS</dc:subject>
+   <dc:subject>INFLATION</dc:subject>
+   <dc:subject>INTERPERSONAL COMMUNICATION</dc:subject>
+   <dc:subject>LABOUR PARTY (GREAT BRITAIN)</dc:subject>
+   <dc:subject>LEEDS</dc:subject>
+   <dc:subject>LEISURE TIME</dc:subject>
+   <dc:subject>LIBERAL PARTY (GREAT BRITAIN)</dc:subject>
+   <dc:subject>LOCAL GOVERNMENT</dc:subject>
+   <dc:subject>MARITAL STATUS</dc:subject>
+   <dc:subject>MORAL VALUES</dc:subject>
+   <dc:subject>MOTIVATION</dc:subject>
+   <dc:subject>NATIONAL PRESTIGE</dc:subject>
+   <dc:subject>NEWSPAPER READERSHIP</dc:subject>
+   <dc:subject>NEWSPAPERS</dc:subject>
+   <dc:subject>NUCLEAR WARFARE</dc:subject>
+   <dc:subject>OCCUPATIONAL STATUS</dc:subject>
+   <dc:subject>OVERPOPULATION</dc:subject>
+   <dc:subject>PARENTS</dc:subject>
+   <dc:subject>PARLIAMENTARY CANDIDATES</dc:subject>
+   <dc:subject>PEACE</dc:subject>
+   <dc:subject>POLITICAL ALLEGIANCE</dc:subject>
+   <dc:subject>POLITICAL AWARENESS</dc:subject>
+   <dc:subject>POLITICAL INFLUENCE</dc:subject>
+   <dc:subject>POLITICAL LEADERS</dc:subject>
+   <dc:subject>POLITICAL PARTICIPATION</dc:subject>
+   <dc:subject>POLITICIANS</dc:subject>
+   <dc:subject>POLITICS</dc:subject>
+   <dc:subject>POVERTY</dc:subject>
+   <dc:subject>RACE RELATIONS</dc:subject>
+   <dc:subject>RADIO LISTENING</dc:subject>
+   <dc:subject>RADIO NEWS</dc:subject>
+   <dc:subject>SCHOOL-LEAVING AGE</dc:subject>
+   <dc:subject>SCHOOLS</dc:subject>
+   <dc:subject>SECONDARY EDUCATION</dc:subject>
+   <dc:subject>SECONDARY SCHOOLS</dc:subject>
+   <dc:subject>SOCIAL MOBILITY</dc:subject>
+   <dc:subject>SOCIAL SECURITY</dc:subject>
+   <dc:subject>SOCIO-ECONOMIC STATUS</dc:subject>
+   <dc:subject>SOUTH AFRICA</dc:subject>
+   <dc:subject>SPORT</dc:subject>
+   <dc:subject>SPOUSES</dc:subject>
+   <dc:subject>STANDARD OF LIVING</dc:subject>
+   <dc:subject>STATE RESPONSIBILITY</dc:subject>
+   <dc:subject>STRIKES</dc:subject>
+   <dc:subject>TAXATION</dc:subject>
+   <dc:subject>TELEVISION NEWS</dc:subject>
+   <dc:subject>TRAFFIC</dc:subject>
+   <dc:subject>UNEMPLOYMENT</dc:subject>
+   <dc:subject>VOTING INTENTION</dc:subject>
+   <dc:subject>VOTING</dc:subject>
+   <dc:subject>Political behaviour and attitudes - Politics</dc:subject>
+   <dc:subject>Election and campaign studies - Politics</dc:subject>
+   <dc:description>&lt;p&gt;Abstract copyright UK Data Service and data collection copyright owner.&lt;/p&gt;The purpose of this study was to collect data about the first-time elector, whose attitudes towards, exposure to and response to the flow of campaign communications during the 1970 and the 1974 General Election were examined in the context of political outlook, role and social situation.&lt;br&gt;
+</dc:description>
+   <dc:description>&lt;B&gt;Main Topics&lt;/B&gt;:&lt;br&gt; Attitudinal/Behavioural Questions&lt;br&gt;
+Voting intention, actual vote, attitudes to political parties before and after the campaign. Orientations to the political and electoral system, political interest, duty to vote, importance of outcome, opinion on efficacy of election process, perceptions of the choice offered voters by the parties. Assessment of political knowledge, issue salience, respondent's reasons for following and avoiding the campaign on television. Exposure to the campaign in diverse media: television, radio, newspapers, discussion with friends and family members. Post-election assessment of the quality of the campaign equivalent in wording to the index of pre-campaign reasons for following and avoiding the election.&lt;br&gt;
+Background Variables&lt;br&gt;
+Marital status, number of children, occupation, trade union membership, type of residence.</dc:description>
+   <dc:date>1973</dc:date>
+   <dc:format>Various</dc:format>
+   <dc:language>English</dc:language>
+   <dc:coverage>(Data Collection) From October 1971</dc:coverage>
+   <dc:coverage>Geographical coverage: Leeds</dc:coverage>
+   <dc:coverage>Geographical coverage: Yorkshire</dc:coverage>
+   <dc:coverage>Geographical coverage: England</dc:coverage>
+   <dc:rights>No information recorded</dc:rights>
+</oai_dc:dc>
+	
+
+    </metadata>
+
+  </record>
+
+</GetRecord>
+
+
+
+</OAI-PMH>
+
+
+
+
+
+
+
+
+
+ 
+
+
+

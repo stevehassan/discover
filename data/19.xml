@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type='text/xsl' href='oai2.xsl' ?>
+
+
+
+
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+
+<responseDate>2016-05-06T19:59:37Z</responseDate>
+
+<request verb="GetRecord" identifier="19" metadataPrefix="oai_dc">http://oai.ukdataservice.ac.uk/oai/provider</request>
+
+
+
+<GetRecord>
+
+  <record>
+
+  
+
+    <header>
+
+      <identifier>19</identifier>
+
+      <datestamp>2016-05-06T12:34:22Z</datestamp>
+
+      <setSpec>DataCollections</setSpec> 	
+
+    </header>
+
+	
+
+    <metadata>
+
+	<oai_dc:dc xmlns:ddi="ddi:codebook:2_5"
+           xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+           xmlns:dc="http://purl.org/dc/elements/1.1/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+   <dc:identifier>19</dc:identifier>
+   <dc:title>Career Structure of Technical College Graduates, 1969 and 1971</dc:title>
+   <dc:creator>Barber, C.R., Oxford Polytechnic</dc:creator>
+   <dc:creator>Oxford Polytechnic. Social Science Research Unit</dc:creator>
+   <dc:subject>1971</dc:subject>
+   <dc:subject>1969</dc:subject>
+   <dc:subject>AGE</dc:subject>
+   <dc:subject>ATTITUDES</dc:subject>
+   <dc:subject>CAREER DEVELOPMENT</dc:subject>
+   <dc:subject>DEGREES</dc:subject>
+   <dc:subject>EMIGRATION</dc:subject>
+   <dc:subject>EMPLOYMENT</dc:subject>
+   <dc:subject>ENGLAND</dc:subject>
+   <dc:subject>EVALUATION</dc:subject>
+   <dc:subject>FURTHER TRAINING</dc:subject>
+   <dc:subject>GENDER</dc:subject>
+   <dc:subject>GRADUATES</dc:subject>
+   <dc:subject>INCOME</dc:subject>
+   <dc:subject>MARITAL STATUS</dc:subject>
+   <dc:subject>OCCUPATIONAL TRAINING</dc:subject>
+   <dc:subject>OCCUPATIONS</dc:subject>
+   <dc:subject>TECHNICAL COLLEGES</dc:subject>
+   <dc:subject>Higher and further - Education</dc:subject>
+   <dc:subject>General - Employment and labour</dc:subject>
+   <dc:description>&lt;p&gt;Abstract copyright UK Data Service and data collection copyright owner.&lt;/p&gt;The purpose of this study was to investigate whether a degree taken at a college of technology or a polytechnic was inferior to one taken at university in terms of employment opportunities. The question of whether HNDs are recognised as degree equivalents was also examined.&lt;br&gt;
+</dc:description>
+   <dc:description>&lt;B&gt;Main Topics&lt;/B&gt;:&lt;br&gt; Attitudinal/Behavioural Questions&lt;br&gt;
+This was a two stage survey, the first questionnaire administered in 1969, the second in 1971.&lt;br&gt;
+Questions included in both stages:&lt;br&gt;
+Occupation(s): type; nature of firm; salary; promotion prospects; introductory training; source of information about job; starting date.&lt;br&gt;
+Questions asked in first stage only:&lt;br&gt;
+Occupation(s): reasons for leaving; satisfaction of expectations; reasons for remaining in job; future plans; salary expectation in five years. Attitude to: career choice; qualifications; promotion prospects.&lt;br&gt;
+Questions asked in second stage only:&lt;br&gt;
+Occupation(s): intention to remain; total number of jobs held since leaving college. Evaluation of usefulness of degree/HND.&lt;br&gt;
+Background Variables&lt;br&gt;
+Age, sex, marital status, qualifications (where taken, results).</dc:description>
+   <dc:date>1 January 1974</dc:date>
+   <dc:format>Various</dc:format>
+   <dc:language>English</dc:language>
+   <dc:coverage>(Data Collection) From 1969</dc:coverage>
+   <dc:coverage>(Data Collection) To 1971</dc:coverage>
+   <dc:coverage>Geographical coverage: England</dc:coverage>
+   <dc:rights>No information recorded</dc:rights>
+</oai_dc:dc>
+	
+
+    </metadata>
+
+  </record>
+
+</GetRecord>
+
+
+
+</OAI-PMH>
+
+
+
+
+
+
+
+
+
+ 
+
+
+

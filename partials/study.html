@@ -1,0 +1,38 @@
+<div class="display panel-group" id="study" ng-controller="studyController">
+    <div fb-parse class="panel-body">
+		<div class="row">
+			<div class="col-xs-6 col-sm-10"></div>
+			<div class="col-xs-6 col-sm-2">
+				<div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>	
+			</div>
+		</div>
+	</div>
+	<div class="panel panel-default" ng-repeat="tag in item.dctags"  ng-show="{{tag.bind}}">
+		<div class="panel-heading">
+			<h4 class="panel-title">
+				<div class="row" ng-show="{{tag.title=='Title'}}">
+					<div class="col-xs-2 col-sm-4">
+						{{tag.title}} for Study {{item.id}}
+					</div>
+					<div class="col-xs-2">
+						<a href="data/{{item.id}}.xml">OAI</a>
+					</div>
+					<div class="col-xs-2">
+						<a href="#/json/{{item.id}}">JSON</a>
+					</div>
+					<div class="col-xs-6 col-sm-4 text-right">
+						<a href="#login/{{item.id}}">Download</a>
+					</div>
+				</div>			
+				<div ng-show="{{tag.title!='Title'}}">
+					{{tag.title}}
+				</div>
+			</h4>
+		</div>
+		<div class="panel">
+			<div class="panel-body" bind-html-compile="{{tag.bind}}">
+				{{tag.value}}
+			</div>
+		</div>
+	</div>
+</div>
