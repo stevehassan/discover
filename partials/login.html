@@ -33,8 +33,8 @@
         </div>
 		<div ng-show="status" class="panel-group">
 			<h3>Your list of taggable friends:</h3>
-			<button class="btn btn-primary" id="friends-btn" data-loading-text="Loading...">Get friends</button>
-			<button class="btn btn-success" id="friends-toggle" data-toggle="collapse" data-target="#friends-panel">Show</button>
+			<button class="btn btn-primary" id="friends-btn">Get friends</button>
+			<button class="btn btn-success" id="friends-toggle" data-toggle="collapse" data-target="#friends-panel" aria-expanded="true" aria-controls="friends-panel">Show</button>
 			<div id="friends-panel" class="container panel panel-default">
 				<div class="row" ng-repeat="rows in chunkedFriends">
 					<div id="friends-col" class="col-xs-{{colSpan}} animate-repeat" ng-repeat="friend in rows">

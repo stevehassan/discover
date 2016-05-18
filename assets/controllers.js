@@ -14,7 +14,7 @@ discoverApp.run(['$rootScope', '$window', '$facebook', function($rootScope, $win
 }]);
 // ------------------ CONFIGS ------------------
 discoverApp.config(['$facebookProvider', function($facebookProvider) {
-    $facebookProvider.setAppId('123456789876543').setPermissions(['email','user_friends']);// Change to your facebook app_id
+    $facebookProvider.setAppId('123456789876543').setPermissions(['email','user_friends']);
 }]);
 // configure for pages
 discoverApp.config(['$routeProvider', function($routeProvider) {
@@ -98,11 +98,11 @@ discoverApp.controller('loginController', ['$scope', '$facebook', '$routeParams'
     });
 	$('#friends-btn').on('click', function () {
 		if(!$scope.status) return;
-		var $btn = $(this).button('loading');
+		var $btn = $(this).text('Loading...');
 		$facebook.api('/me/taggable_friends?limit=5000').then(function(friends) {
 			$scope.colSpan = 4;
 			$scope.chunkedFriends = chunk(friends.data, 12/$scope.colSpan);
-			$btn.button('reset');
+			$btn.text('Get friends');
 		});
     });	
 }]);
