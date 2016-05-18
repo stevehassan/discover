@@ -2,9 +2,6 @@
 	.jumbotron, .display, .search, .login{
 		padding-left: 0px; padding-right: 0px; padding-top: 70px;
 	}
-	.navbar-toggle .icon-bar {
-		width: 32px;
-	}
 }
 @media (max-width: 767px) {
 	.jumbotron, .display, .search, .login {
