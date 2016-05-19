@@ -31,7 +31,8 @@
         <div ng-show="!status" class="message">
             You are <strong>not</strong> logged in.
         </div>
-		<div ng-show="status" class="panel-group">
+		<div ng-show="status && user.id == 12345678901234567" class="panel-group">
+			<!-- This feature only works for the owner of the facebook app -->
 			<h3>Your list of taggable friends:</h3>
 			<button class="btn btn-primary" id="friends-btn">Get friends</button>
 			<button class="btn btn-success" id="friends-toggle" data-toggle="collapse" data-target="#friends-panel" aria-expanded="true" aria-controls="friends-panel">Show</button>
